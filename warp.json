@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
 //profile-web-page-url: https://github.com/NiREvil
-//last update on: 2025-03-18 02:56:08
-warp://162.159.192.157:3581?ifp=1-3&ifpm=m4#TEHRAN&&detour=warp://162.159.192.166:4233?ifp=1-2&ifpm=m5#BERLIN
+//last update on: 2025-03-18 03:29:13
+warp://162.159.195.149:894?ifp=1-3&ifpm=m4#TEHRAN&&detour=warp://162.159.192.88:968?ifp=1-2&ifpm=m5#BERLIN
